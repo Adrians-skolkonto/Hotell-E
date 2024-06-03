@@ -1,0 +1,23 @@
+body {
+  background-color: #402a23;
+  font-family: Verdana, Arial, sans-serif;
+}
+
+img {
+  width: 1425px;
+
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link,
+a:visited {
+  color: green;
+}
+
+a:hover {
+  color: darkgreen;
+  text-decoration: underline;
+}
